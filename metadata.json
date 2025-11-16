@@ -1,0 +1,5 @@
+{
+  "name": "MayuGPT",
+  "description": "An AI-powered chatbot that allows users to ask questions and receive responses from Gemini. Named MayuGPT, it provides a seamless and professional conversational experience.",
+  "requestFramePermissions": []
+}
